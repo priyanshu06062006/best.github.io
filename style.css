@@ -738,6 +738,9 @@ section .title::after{
 .skills-content .right .wordpress::before{
     width: 75%;
 }
+.skills-content .right .tally::before{
+    width: 95%;
+}
 
 
 /* projects section styling */
